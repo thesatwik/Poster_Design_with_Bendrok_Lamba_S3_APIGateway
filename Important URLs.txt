@@ -1,0 +1,6 @@
+##Add Lamda layers to upgrade boto3 versions. 
+https://repost.aws/knowledge-center/lambda-python-runtime-errors 
+
+## Inferrence Parameters by Model. 
+
+https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html

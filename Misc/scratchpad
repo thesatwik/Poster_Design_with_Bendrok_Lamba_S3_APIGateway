@@ -1,0 +1,17 @@
+[cloudshell-user@ip-10-134-79-33 boto3-mylayer]$ aws lambda publish-layer-version --layer-name boto3-thesatwiklayer --zip-file fileb:///tmp/boto3-mylayer.zip
+{
+    "Content": {
+        "Location": "https://awslambda-us-west-2-layers.s3.us-west-2.amazonaws.com/snapshots/414402570278/boto3-thesatwiklayer-2f87cfd2-fb09-47c6-b919-6f9cc1eb3dea?versionId=ZVev44P9aj91HOS1M82BwvLNtq.Ibs08&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHsaCXVzLXdlc3QtMiJGMEQCIBJwX9vFe6HTVQmrd4OATNzb05L%2Bi4EUEgl%2BlfIuOXxUAiBCWHAxvVdlFngM8RgWRT%2BepZjtlykgk6wZvG%2Bl%2ByP98CqwBQgkEAUaDDUwMjI5NzA3NjE2MyIMgyDxo07iVxF8G8ZKKo0FtU71oL4n6SH99IuKt%2BHcj3k6BLzKeZYpKAZG0V7VB3o%2FD0z8X8hSLv0jYldDmERfouFzv5mAw53p906unE3XitKl%2FoLFos4VNrHpXjqrua37PjgRz3Ss4rSgLjuaT9V%2BZTOmes9QoYHwE16BEVOvG%2BZ3cBWr8jdSdXtEG%2BgdL5F7ENZk%2FIzTxvjHqYpbunavMdooeBqLcgJhuROA9nNTNahcnRS0vCDvH9ztnWSI7eq1oeuUy3xlpKvIfN%2BNlwabDdTixo4K%2Fwhy7%2BUYJ85CPc85O0MaV23Qn8JR9GF9ZbbaB5ef8HQeKyOiF2W7zQh%2FaBfg3pYmEIkc2uL1OvXqfrP3MppHclwnTLEwok%2F%2BWVm7AIkO85qbqnjhEfUzzj4HvYcUkiOOLQDS4xI77a8nFSLE%2BwryVXQK5nMavlEUjANzqel3qOjW3wWxI53kzmP%2FKlAAaEnI8Ywdy0IDkga0YlX1B18dfBkyiWs%2BVDvWac2ixqOIPPot22%2BjtqD3PLnHtq71kxIKtL7yktWLU7CuM1HqBfL4LVoQvHXKkevQOSJ4Ujpqu0vpvaZtNx%2FWS3N5koLOJvm2ga3gLWb8wFeNablrPp7DHAXnfdlTQCYPvKCV%2FUlMVdDt9V1%2BNI%2FQSsn0aI%2BAKavcHpTMww5DyskTzNoeIlGEzPTSRG%2BSkr8TviMkxM%2BK4M6TJncetzRCD9OGBbDvrU2%2B1SsbkIJfg%2FZNuHvv6LQR1dzpZ6lH6kkJZE%2Fp1JC%2FshgtbITjtfbD8sc4tVNP996pbHSx9zhE1Sqs01pPZ20xOXgRmac0nVSDpnCNytIpY5h9lgMFIrR0j72Z5YCVn0kqnL9dw7OmGu%2Ff74CFuO3M%2FA3Ol5w%2Fg44wzq79rAY6sgGWdV%2BQVkY2NnfxbHzVIoiR8aZYTvYmKJiAeShhhSl1F4jxJ%2F9ZKHTXTsU6J663cskEvHgjwqXwJgNAU6QbIniWBdywwP9hdker%2BmK4TdrxOaeyUiCKfT9%2BXKJWotqcFPUnGYCjaCG4ArNBnIoZ%2F8%2FRqq1zgFwNXhyNYaOwleVB5McAdreUwZm82TzL6l9QDkAEAOYfGXuNbvODcT1fNCLDjtxxf6XPcLBEnDQrZ5VSgkcw&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240111T032920Z&X-Amz-SignedHeaders=host&X-Amz-Expires=599&X-Amz-Credential=ASIAXJ4Z5EHBUWL7M5ZG%2F20240111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=3cb17cb04123235f0f9ace80a98a40b9ba75f9ab818fd1ffdde8a51574c1114f",
+        "CodeSha256": "7tOPRM99XLKDTr+B0pAA6IbjZ/ek7mFhoXvr/N63WW0=",
+        "CodeSize": 13716592
+    },
+    "LayerArn": "arn:aws:lambda:us-west-2:414402570278:layer:boto3-thesatwiklayer",
+    "LayerVersionArn": "arn:aws:lambda:us-west-2:414402570278:layer:boto3-thesatwiklayer:1",
+    "Description": "",
+    "CreatedDate": "2024-01-11T03:29:26.596+0000",
+    "Version": 1
+}
+[cloudshell-user@ip-10-134-79-33 boto3-mylayer]$ 
+
+---
+
