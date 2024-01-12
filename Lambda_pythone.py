@@ -1,4 +1,4 @@
-##Documentation Followed(👇🏻)
+##Documentation Followed(see below)
 ##https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-diffusion-1-0-text-image.html 
 ## https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-runtime/client/invoke_model.html#invoke-model
 ## https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3/client/put_object.html
