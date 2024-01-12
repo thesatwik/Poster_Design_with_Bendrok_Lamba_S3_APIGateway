@@ -2,6 +2,7 @@
 
 High Level Architecture
 
+
 ![Alt text](Architecture.png)
 
 
